@@ -58,4 +58,3 @@ This project involves analyzing a **Netflix** dataset with various attributes ab
 
 - **Optimized Power BI dashboard** with **30% faster refresh times**, leveraging **advanced DAX calculations and data modeling** to track **release trends, genre distribution, and audience segmentation** for data-driven insights. 🚀
 
-Would you like insights on **trend visualization ideas for Power BI**? 📊🚀
