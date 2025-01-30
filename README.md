@@ -2,9 +2,9 @@
 ![Netflix Power BI Dashboard](https://github.com/aftabalammansoori/Netflix-Power-BI-Analysis/blob/main/Netflix%20Power%20BI%20.png)
 
 ## Overview
-This project involves analyzing a **Netflix** dataset with various attributes about tracks, albums, and artists using **SQL**. Designed and developed an interactive Netflix dashboard using Power BI and DAX, analyzing a dataset of over 6K records spanning 1994-2021 years. Optimized data modeling and implemented advanced DAX measures, improving report refresh time by 30%. Delivered actionable insights on genre distribution, content trends, and regional availability, enhancing strategic decision-making and user engagement."
+This project involves analyzing a **Netflix** dataset with various attributes about Titles,Start Year, Run Time, Type, Country, Rating, Genres etc. using **Power Query Editor**. Designed and developed an interactive Netflix dashboard using Power BI and DAX, analyzing a dataset of over 6K records spanning 1994-2021 years. Optimized data modeling and implemented advanced DAX measures, improving report refresh time by 30%. Delivered actionable insights on genre distribution, content trends, and regional availability, enhancing strategic decision-making and user engagement, etc.
 
-### **Refined Netflix Dataset Analysis (Power BI Dashboard)**  
+### **Netflix Dataset Analysis (Power BI Dashboard)**  
 
 🔹 **Total Titles Analyzed:** **5,501**  
 🔹 **Average IMDb Rating:** **6.7**  
@@ -52,7 +52,7 @@ This project involves analyzing a **Netflix** dataset with various attributes ab
  
 
 
-- **Analyzed 5,501 Netflix titles (1994–2021)**, with an **average IMDb rating of 6.7** and **846 top-rated titles (8.0+ IMDb)**; dominant content types include **movies (2,923) and TV series (2,199)**.  
+- **Analyzed 5,501 Netflix titles (1994–2021)**, with an **average IMDb rating of 6.7** and **846 top-rated titles (8.0+ IMDb)**; dominant content types include **movies (2,923) and TV Shows (2,199)**.  
 
 - **Key insights:** Drama (2,848) and Comedy (2,176) are the most popular genres; **top-producing countries** include the **U.S. (2,836), U.K. (508), and Japan (406)**; **English (3,834)** is the primary language, with Spanish, Japanese, and Korean following.  
 
