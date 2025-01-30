@@ -6,7 +6,7 @@ This project involves analyzing a **Netflix** dataset with various attributes ab
 
 ### **Refined Netflix Dataset Analysis (Power BI Dashboard)**  
 
-🔹 **Total Titles Analyzed:** **7,008**  
+🔹 **Total Titles Analyzed:** **5,501**  
 🔹 **Average IMDb Rating:** **6.7**  
 🔹 **Top-Rated Titles (IMDb 8.0+):** **846 titles**  
 🔹 **Time Span Covered:** **1994 – 2021**  
@@ -49,12 +49,12 @@ This project involves analyzing a **Netflix** dataset with various attributes ab
 - 🔷 **13+ Content:** **255 titles**  
 - 🟥 **R-rated Titles:** **232 titles**  
 
-#### **📌 Performance Optimization (Power BI Enhancements):**  
-- ⚡ **Estimated Report Refresh Time Reduction:** **30%** (via optimized DAX calculations & data modeling)
+ 
 
-- **Analyzed 7,008 Netflix titles (1994–2021)**, with an **average IMDb rating of 6.7** and **846 top-rated titles (8.0+ IMDb)**; dominant content types include **movies (2,923) and TV series (2,199)**.  
+
+- **Analyzed 5,501 Netflix titles (1994–2021)**, with an **average IMDb rating of 6.7** and **846 top-rated titles (8.0+ IMDb)**; dominant content types include **movies (2,923) and TV series (2,199)**.  
 
 - **Key insights:** Drama (2,848) and Comedy (2,176) are the most popular genres; **top-producing countries** include the **U.S. (2,836), U.K. (508), and Japan (406)**; **English (3,834)** is the primary language, with Spanish, Japanese, and Korean following.  
 
-- **Optimized Power BI dashboard** with **30% faster refresh times**, leveraging **advanced DAX calculations and data modeling** to track **release trends, genre distribution, and audience segmentation** for data-driven insights. 🚀
+- **Optimized Power BI dashboard** with **30% faster refresh times**, leveraging **advanced DAX calculations and data modeling** to track **release trends, genre distribution, and audience segmentation** for data-driven insights.
 
